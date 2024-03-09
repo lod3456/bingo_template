@@ -19,7 +19,7 @@ To get a local copy up and running, follow these simple steps:
 3. Type the following command and press Enter:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/lod3456/bingo_template.git
 ```
 ### Setting Up Your Game
 Updating the Bingo Words
